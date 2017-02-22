@@ -2,7 +2,7 @@
   "name": "cycle-schedule-driver",
   "version": "1.0.0",
   "description": "Cron-like schedule driver for Cycle.js",
-  "main": "index.js",
+  "main": "dist/makeScheduleDriver.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dist": "babel src -d dist --presets=es2015,babili --no-babelrc",
