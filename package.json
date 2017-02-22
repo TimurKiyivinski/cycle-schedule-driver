@@ -1,0 +1,25 @@
+{
+  "name": "cycle-schedule-driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimurKiyivinski/cycle-schedule-driver.git"
+  },
+  "keywords": [
+    "cycle",
+    "driver",
+    "schedule",
+    "cron"
+  ],
+  "author": "Timur Kiyivinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimurKiyivinski/cycle-schedule-driver/issues"
+  },
+  "homepage": "https://github.com/TimurKiyivinski/cycle-schedule-driver#readme"
+}
